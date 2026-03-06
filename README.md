@@ -31,6 +31,7 @@ This repository is part of my transition toward production-level Machine Learnin
 
 - `theory_notes/` → Structured conceptual summaries
 - `derivations/` → Formal mathematical derivations
+- `exercises/` → Solved probability and statistics exercises with formal derivations
 - `python_implementations/` → Models implemented from scratch
 - `notebooks/` → Weekly study notebooks
 - `mini_project/` → Final integrative technical project
